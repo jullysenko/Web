@@ -1,0 +1,59 @@
+html{
+    background-color: rgba(205, 217, 233, 0.753);
+}
+body {
+    background-color: rgba(178, 194, 214, 0.753);
+color: rgb(14, 91, 163);
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Playfair Display', serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto Condensed', sans-serif;
+    padding: 40 px 0 0 0;
+    border: 1px solid white;
+    text-shadow: 1px 1px 1px white;
+}
+
+p,a {
+    text-align: center;
+    vertical-align: middle;
+    color: rgb(35, 184, 177);
+}
+#my_id {
+    vertical-align: middle;
+}
+
+TABLE {
+    width: 100%;
+    /* Ширина таблицы */
+}
+
+#col1 {
+    width: 60%;
+    /* Ширина первой колонки */
+}
+
+#col2 {
+    width: 30%;
+    /* Ширина второй колонки */
+    text-align: left;
+    /* Выравнивание по левому краю */
+}
+
+#col1,
+#col2 {
+    vertical-align: top;
+    /* Выравнивание по верхнему краю */
+
+}
+
+h1 {
+    text-align: center;
+    color: rgb(36, 54, 134);
+}
+h2 {
+    color: rgb(18, 73, 124);
+}
+ul {
+    color: rgb(14, 91, 163);
+    
+}
